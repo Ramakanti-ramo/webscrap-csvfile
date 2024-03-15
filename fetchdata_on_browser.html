@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSV Data Display</title>
+</head>
+<body>
+  <h1>CSV Data Display</h1>
+  <div id="dataContainer"></div>
+
+  <script>
+    // Fetch the CSV file
+    fetch('webscrap.csv')
+      .then(response => response.text())
+      .then(data => {
+        // Split the data into rows
+        const rows = data.split('\n');
+
+        // Create a table to display the data
+        const table = document.createElement('table');
+        table.border = '1';
+
+        // Loop through rows and create table rows and cells
+        rows.forEach(row => {
+          const rowData = row.split(',');
+          const tr = document.createElement('tr');
+          rowData.forEach(cellData => {
+            const td = document.createElement('td');
+            td.textContent = cellData.trim();
+            tr.appendChild(td);
+          });
+          table.appendChild(tr);
+        });
+
+        // Append the table to the data container Ramakanti.
+        document.getElementById('dataContainer').appendChild(table);
+      })
+      .catch(error => {
+        console.error('Error fetching CSV file:', error);
+      });
+  </script>
+</body>
+</html>
