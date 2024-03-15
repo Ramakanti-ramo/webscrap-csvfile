@@ -1,0 +1,568 @@
+
+            var toiprops = window.toiprops || {};
+            
+            
+                {
+                	"@context": "https://schema.org",
+                	"@type": "ItemList",
+                	"itemListElement":[
+                	
+                        {
+                          "@type": "ListItem",
+                          "position": "1",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/yogi-adityanath-launches-551-projects-worth-rs-1885-crore-in-ups-siddharthnagar/articleshow/108522058.cms",
+                          "name":"
+Yogi Adityanath launches 551 projects worth Rs 1,885 crore in UP's Siddharthnagar
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "2",
+                          "url":"https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/salaar-makers-step-in-to-compensate-andhra-distributors-amid-uncertain-box-office-collections/articleshow/108520118.cms",
+                          "name":"
+Salaar makers step in to compensate Andhra distributors amid uncertain box office collections
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "3",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/magnitude-3-1-earthquake-hits-madhya-pradeshs-singrauli/articleshow/108520564.cms",
+                          "name":"
+Magnitude-3.1 earthquake hits Madhya Pradesh's Singrauli
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "4",
+                          "url":"https://timesofindia.indiatimes.com/education/news/up-metro-rail-recruitment-2024-notification-for-439-vacancies-released-application-from-march-20/articleshow/108516391.cms",
+                          "name":"
+UP Metro Rail Recruitment 2024: Notification for 439 vacancies released, application from March 20
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "5",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/7-schoolgirls-elderly-man-injured-after-truck-van-collision-in-madhya-pradeshs-ratlam/articleshow/108518236.cms",
+                          "name":"
+7 schoolgirls, elderly man injured after truck-van collision in Madhya Pradesh's Ratlam
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "6",
+                          "url":"https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-winner-ke-huy-quan-to-star-in-action-film-with-love/articleshow/108514697.cms",
+                          "name":"
+Oscar winner Ke Huy Quan to star in action film 'With Love'
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "7",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/up-cm-yogi-adityanath-launches-development-projects-worth-rs-1749-crore-in-balrampur-shravasti/articleshow/108513464.cms",
+                          "name":"
+UP CM Yogi Adityanath launches development projects worth Rs 1,749 crore in Balrampur, Shravasti
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "8",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/up-town-and-country-planning-act-urban-development-in-uttar-pradesh/articleshow/108507579.cms",
+                          "name":"
+UP to establish town and country planning directorate
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "9",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/appointment-of-12-member-team-for-education-service-selection-panel-in-lucknow/articleshow/108507569.cms",
+                          "name":"
+12-member team for education service selection panel named
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "10",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/up-legislative-council-polls-nda-and-sp-candidates-elected-unopposed-in-uttar-pradesh/articleshow/108507529.cms",
+                          "name":"
+10 NDA candidates elected unopposed
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "11",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/boosting-tourism-uttar-pradesh-plans-four-fold-increase-in-district-budget/articleshow/108507522.cms",
+                          "name":"
+Four-fold increase in district tourism budget proposed
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "12",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-chief-electoral-officer-aims-for-70-voting-target-in-ls-polls/articleshow/108507513.cms",
+                          "name":"
+Target 70% voting this LS polls: Rinwa
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "13",
+                          "url":"https://timesofindia.indiatimes.com/city/chandigarh/amarinder-singh-warring-mocks-aaps-electoral-approach-as-warring-calls-them-khas/articleshow/108507343.cms",
+                          "name":"
+Warring calls them khas, not aam
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "14",
+                          "url":"https://timesofindia.indiatimes.com/city/pune/maharashtra-womens-hockey-team-advances-to-national-quarterfinals-with-win-over-delhi/articleshow/108507268.cms",
+                          "name":"
+Maha, MP women reach National hockey QFs
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "15",
+                          "url":"https://timesofindia.indiatimes.com/city/patna/study-of-bhavya-health-app-success-by-andhra-pradesh-officials-in-bihar/articleshow/108507162.cms",
+                          "name":"
+Andhra teamstudies successof health app
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "16",
+                          "url":"https://timesofindia.indiatimes.com/city/shimla/joa-candidates-thank-sukhu-for-result-decision-himachal-pradesh-news/articleshow/108507105.cms",
+                          "name":"
+JOA candidates thank Sukhu for result decision
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "17",
+                          "url":"https://timesofindia.indiatimes.com/city/shimla/horticulture-hit-in-hp-apple-production-comes-down-28/articleshow/108507096.cms",
+                          "name":"
+Horticulture hit in HP: Apple production comes down 28%
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "18",
+                          "url":"https://timesofindia.indiatimes.com/city/shimla/hp-hc-slams-anni-tehsildar-for-poor-compliance-latest-news/articleshow/108507088.cms",
+                          "name":"
+Anni tehsildar faces HP HC wrath for poor compliance of court’s orders
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "19",
+                          "url":"https://timesofindia.indiatimes.com/city/vijayawada/swearing-in-ceremony-of-two-additional-judges-at-andhra-pradesh-high-court/articleshow/108506617.cms",
+                          "name":"
+Two sworn in as permanent judges of HC
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "20",
+                          "url":"https://timesofindia.indiatimes.com/city/indore/mphrc-orders-probe-into-12-year-old-girls-death-in-stray-dog-attack/articleshow/108506540.cms",
+                          "name":"
+Minor mauled by dogs: MPHRC orders probe
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "21",
+                          "url":"https://timesofindia.indiatimes.com/city/indore/rte-admissions-in-mp-84k-seats-allotted-in-first-round-lottery/articleshow/108506493.cms",
+                          "name":"
+84k seats allotted under RTE in MP in first round of lottery
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "22",
+                          "url":"https://timesofindia.indiatimes.com/city/indore/indore-metro-project-discom-plans-5-shutdowns-for-132kv-line-shifting/articleshow/108506470.cms",
+                          "name":"
+Discom plans five shutdowns for shifting of 132KV line for Metro
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "23",
+                          "url":"https://timesofindia.indiatimes.com/city/visakhapatnam/energy-efficiency-project-by-apsecm-in-andhra-pradesh-msme-sector/articleshow/108506391.cms",
+                          "name":"
+Andhra pushes for EE tech in MSME sector
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "24",
+                          "url":"https://timesofindia.indiatimes.com/city/visakhapatnam/rayalaseema-heat-waves-forecast-residents-brace-for-sweltering-conditions/articleshow/108506384.cms",
+                          "name":"
+Rayalaseema to witness heat waves from March 18
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "25",
+                          "url":"https://timesofindia.indiatimes.com/city/visakhapatnam/40-dip-in-ap-mango-production-due-to-unfavourable-weather/articleshow/108506375.cms",
+                          "name":"
+Dec rains likely to hit mango yield in AP
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "26",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/interpol-seeks-file-on-wildlife-smuggler-tashi-sherpa-tiger-poaching-syndicate-exposed/articleshow/108506192.cms",
+                          "name":"
+Interpol file sought on wildlife smuggler
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "27",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cabinet-approves-ken-betwa-link-project-and-chitrakoot-development-authority/articleshow/108506178.cms",
+                          "name":"
+Cabinet clears Ken-Betwa link project work
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "28",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/survey-reveals-sleep-patterns-in-madhya-pradesh-amid-covid-19-impact/articleshow/108506156.cms",
+                          "name":"
+Alarm bells for state: 45% get less than 6 hrs sleep, many blame Covid
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "29",
+                          "url":"https://timesofindia.indiatimes.com/city/delhi/delhi-high-court-fines-prince-1-lakh-for-false-land-claim-latest-updates/articleshow/108505233.cms",
+                          "name":"
+Man claims ownership on land between Yamuna & Ganga, court fines him Rs 1 lakh
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "30",
+                          "url":"https://timesofindia.indiatimes.com/city/mumbai/illegal-liquor-transportation-worth-rs-1-31-crore-busted-on-mumbai-nashik-highway/articleshow/108502750.cms",
+                          "name":"
+Illegal liquor transportation worth Rs 1.31 crore busted on Mumbai-Nashik highway
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "31",
+                          "url":"https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-announces-his-decision-to-join-politics-to-contest-lok-sabha-election-from-pithapuram-in-ap-see-post/articleshow/108498027.cms",
+                          "name":"
+Ram Gopal Varma announces his decision to join politics; to contest Lok Sabha election from Pithapuram in AP - See post
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "32",
+                          "url":"https://timesofindia.indiatimes.com/education/news/ap-tet-2024-final-answer-key-released-check-how-to-download-and-other-details-here/articleshow/108497589.cms",
+                          "name":"
+AP TET 2024 final answer key released, check how to download and other details here
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "33",
+                          "url":"https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-set-to-run-for-the-andhra-pradesh-elections-from-pithapuram/articleshow/108497186.cms",
+                          "name":"
+Pawan Kalyan set to run for the Andhra Pradesh elections from Pithapuram
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "34",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-not-sleeping-well-21-said-sleep-quality-worsened-since-covid-19/articleshow/108491577.cms",
+                          "name":"
+Madhya Pradesh not sleeping well: 21% said sleep quality worsened since Covid-19
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "35",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/obc-quota-case-didnt-ask-govt-to-hold-back-appts-on-13-jobs-hc/articleshow/108492084.cms",
+                          "name":"
+OBC quota case: Didn't ask govt to hold back appts on 13% jobs: HC
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "36",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/bjp-fields-twice-beaten-bunty-against-nakul-in-chhindwara/articleshow/108492076.cms",
+                          "name":"
+BJP fields twice-beaten Bunty against Nakul in Chhindwara
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "37",
+                          "url":"https://timesofindia.indiatimes.com/city/lucknow/yogi-adityanath-launches-development-projects-worth-rs-2122-crore-in-ups-ambedkar-nagar/articleshow/108486837.cms",
+                          "name":"
+Yogi Adityanath launches development projects worth Rs 2,122 crore in UP's Ambedkar Nagar
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "38",
+                          "url":"https://timesofindia.indiatimes.com/education/news/tdp-launches-kalalaku-rekkalu-scheme-for-girls-education/articleshow/108484971.cms",
+                          "name":"
+TDP launches 'Kalalaku Rekkalu' scheme for girls' education
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "39",
+                          "url":"https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-didnt-have-to-dumb-down-rani-to-make-her-look-cute-ishita-moitra/articleshow/108483668.cms",
+                          "name":"
+We didn't have to dumb down Rani to make her look cute: Ishita Moitra
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "40",
+                          "url":"https://timesofindia.indiatimes.com/city/guwahati/day-after-cong-names-poll-nominees-for-assam-party-state-gen-secy-joins-bjp/articleshow/108477888.cms",
+                          "name":"
+Day after Cong names poll nominees for Assam, party state gen secy joins BJP
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "41",
+                          "url":"https://timesofindia.indiatimes.com/city/guwahati/bjp-announces-60-candidates-for-arunachal-pradesh-assembly-elections/articleshow/108477880.cms",
+                          "name":"
+4 women among 60 BJP candidates for Arunachal polls
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "42",
+                          "url":"https://timesofindia.indiatimes.com/city/bareilly/it-park-nath-corridor-to-transform-bareillys-identity/articleshow/108477558.cms",
+                          "name":"
+‘IT park, Nath Corridor will be Bareilly’s new identity’
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "43",
+                          "url":"https://timesofindia.indiatimes.com/city/shimla/new-policy-to-curb-illegal-mining-himachal-pradesh-approves-mineral-policy-2024/articleshow/108477493.cms",
+                          "name":"
+‘New policy to curb illegal mining’
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "44",
+                          "url":"https://timesofindia.indiatimes.com/city/shimla/rains-lash-shimla-snow-likely-in-higher-hills-today-latest-news/articleshow/108477466.cms",
+                          "name":"
+Rains lash Shimla, snow likely in higher hills today
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "45",
+                          "url":"https://timesofindia.indiatimes.com/city/vijayawada/cheepurupalli-school-sets-up-aps-first-ai-lab-for-high-school-students/articleshow/108477015.cms",
+                          "name":"
+Cheepurupalli school gets AP’s first AI lab
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "46",
+                          "url":"https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-hc-cancels-2018-group-i-mains-exam-appsc/articleshow/108477009.cms",
+                          "name":"
+HC cancels 2018 Group-I mains, orders fresh exam
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "47",
+                          "url":"https://timesofindia.indiatimes.com/city/visakhapatnam/bulk-drug-park-to-be-set-up-at-nakkapalli-visakhapatnam-andhra-pradesh-government-establishes-ap-bulk-drug-infrastructure-corporation-ltd/articleshow/108476711.cms",
+                          "name":"
+Bulk drug park to be set up at Nakkapalli
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "48",
+                          "url":"https://timesofindia.indiatimes.com/city/bhopal/sho-zaheer-khan-wins-bronze-medal-at-police-duty-meet-in-bhopal/articleshow/108476592.cms",
+                          "name":"
+SHO Zaheer Khan bags bronze medal at Police Duty Meet
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "49",
+                          "url":"https://timesofindia.indiatimes.com/city/bengaluru/woman-brands-niece-with-iron-box-over-cash/articleshow/108475845.cms",
+                          "name":"
+Woman brands niece with iron box over cash
+"
+                          }
+                        ,
+                        {
+                          "@type": "ListItem",
+                          "position": "50",
+                          "url":"https://timesofindia.indiatimes.com/city/mumbai/maharashtra-medical-colleges-face-critical-shortage-of-pg-guides-resident-documents/articleshow/108472981.cms",
+                          "name":"
+Maharashtra medical colleges face critical shortage of PG guides: Resident documents
+"
+                          }
+                        
+                	],
+                	"itemListOrder":"https://schema.org/ItemListUnordered",    
+                	"numberOfItems":"50",
+                	"description": "",
+                	"url":"https://timesofindia.indiatimes.com/india/madhya-pradesh"
+                }
+            
+Yogi Adityanath launches 551 projects worth Rs 1,885 crore in UP's Siddharthnagar
+15 Mar 2024, 15:22
+Salaar makers step in to compensate Andhra distributors amid uncertain box office collections
+
+Magnitude-3.1 earthquake hits Madhya Pradesh's Singrauli
+
+UP Metro Rail Recruitment 2024: Notification for 439 vacancies released, application from March 20
+
+7 schoolgirls, elderly man injured after truck-van collision in Madhya Pradesh's Ratlam
+
+Oscar winner Ke Huy Quan to star in action film 'With Love'
+Bhopal NEWS
+                    Magnitude-3.1 earthquake hits Madhya Pradesh's Singrauli15 Mar 2024, 14:457 schoolgirls, elderly man injured after truck-van collision in Madhya Pradesh's RatlamCouple gets 2 yrs’ RI for conversionCS likely to get extension till LS pollsMORE Bhopal NEWSIndore NEWS
+                    Minor mauled by dogs: MPHRC orders probe15 Mar 2024, 04:58IIT-I to research on sustainable waste mgt solutionsPvt varsity staffer posing as cop heldFive arrested for possessing illegal weaponsMORE Indore NEWS
+UP CM Yogi Adityanath launches development projects worth Rs 1,749 crore in Balrampur, Shravasti
+
+UP to establish town and country planning directorate
+
+12-member team for education service selection panel named
+
+10 NDA candidates elected unopposed
+
+Four-fold increase in district tourism budget proposed
+
+Target 70% voting this LS polls: Rinwa
+
+Warring calls them khas, not aam
+
+Maha, MP women reach National hockey QFs
+
+Andhra teamstudies successof health app
+
+JOA candidates thank Sukhu for result decision
+
+Horticulture hit in HP: Apple production comes down 28%
+
+Anni tehsildar faces HP HC wrath for poor compliance of court’s orders
+
+Two sworn in as permanent judges of HC
+
+Minor mauled by dogs: MPHRC orders probe
+
+84k seats allotted under RTE in MP in first round of lottery
+
+Discom plans five shutdowns for shifting of 132KV line for Metro
+
+Andhra pushes for EE tech in MSME sector
+
+Rayalaseema to witness heat waves from March 18
+
+Dec rains likely to hit mango yield in AP
+
+Interpol file sought on wildlife smuggler
+
+Cabinet clears Ken-Betwa link project work
+
+Alarm bells for state: 45% get less than 6 hrs sleep, many blame Covid
+
+Man claims ownership on land between Yamuna & Ganga, court fines him Rs 1 lakh
+
+Illegal liquor transportation worth Rs 1.31 crore busted on Mumbai-Nashik highway
+
+Ram Gopal Varma announces his decision to join politics; to contest Lok Sabha election from Pithapuram in AP - See post
+
+AP TET 2024 final answer key released, check how to download and other details here
+
+Pawan Kalyan set to run for the Andhra Pradesh elections from Pithapuram
+
+Madhya Pradesh not sleeping well: 21% said sleep quality worsened since Covid-19
+
+OBC quota case: Didn't ask govt to hold back appts on 13% jobs: HC
+
+BJP fields twice-beaten Bunty against Nakul in Chhindwara
+
+Yogi Adityanath launches development projects worth Rs 2,122 crore in UP's Ambedkar Nagar
+
+TDP launches 'Kalalaku Rekkalu' scheme for girls' education
+
+We didn't have to dumb down Rani to make her look cute: Ishita Moitra
+
+Day after Cong names poll nominees for Assam, party state gen secy joins BJP
+
+4 women among 60 BJP candidates for Arunachal polls
+
+‘IT park, Nath Corridor will be Bareilly’s new identity’
+
+‘New policy to curb illegal mining’
+
+Rains lash Shimla, snow likely in higher hills today
+
+Cheepurupalli school gets AP’s first AI lab
+
+HC cancels 2018 Group-I mains, orders fresh exam
+
+Bulk drug park to be set up at Nakkapalli
+
+SHO Zaheer Khan bags bronze medal at Police Duty Meet
+
+Woman brands niece with iron box over cash
+
+Maharashtra medical colleges face critical shortage of PG guides: Resident documents
+12345678910
